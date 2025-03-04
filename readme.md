@@ -1,8 +1,8 @@
 # Práctica 01 - Manejo de Git
 
 ## Integrantes:
-- Miembro 1: Usuario1 (correo1@example.com)
-- Miembro 2: Usuario2 (correo2@example.com)
+- Miembro 1: angelbarbarin2
+- Miembro 2: angelbarbarin 
 
 ## Descripción:
 Repositorio creado para la práctica de manejo de Git, donde se aplican los conceptos básicos de control de versiones, uso de ramas, merges, resolución de conflictos y gitignore.
